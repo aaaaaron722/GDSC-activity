@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T15:01:47.498Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.5.4" etag="KvjeiNQms5XdbgUc5UcS" type="github"><diagram id="EvJpZbf_p9BCyoneoR65">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-09T15:25:35.313Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="dNANIPjoKS9dCAClJRgy" version="16.5.4" type="github">
+  <diagram id="EvJpZbf_p9BCyoneoR65" name="Page-1">
+    <mxGraphModel dx="946" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bMYPiPHhk6tZl1_4VbsE-5" value="buttom 按鈕" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="435" width="355" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYPiPHhk6tZl1_4VbsE-6" value="Donate 捐贈" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" vertex="1" parent="bMYPiPHhk6tZl1_4VbsE-5">
+          <mxGeometry y="30" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYPiPHhk6tZl1_4VbsE-8" value="Get 獲取" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" vertex="1" parent="bMYPiPHhk6tZl1_4VbsE-5">
+          <mxGeometry y="60" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYPiPHhk6tZl1_4VbsE-7" value="Info 個人資料" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" vertex="1" parent="bMYPiPHhk6tZl1_4VbsE-5">
+          <mxGeometry y="90" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYPiPHhk6tZl1_4VbsE-17" value="setting 設定" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;strokeColor=default;" vertex="1" parent="bMYPiPHhk6tZl1_4VbsE-5">
+          <mxGeometry y="120" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYPiPHhk6tZl1_4VbsE-9" value="用戶主頁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYPiPHhk6tZl1_4VbsE-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bMYPiPHhk6tZl1_4VbsE-9" target="bMYPiPHhk6tZl1_4VbsE-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="435" as="sourcePoint" />
+            <mxPoint x="380" y="455.71067811865476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMYPiPHhk6tZl1_4VbsE-11" value="Information" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="435" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYPiPHhk6tZl1_4VbsE-12" value="About restaurant" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" vertex="1" parent="bMYPiPHhk6tZl1_4VbsE-11">
+          <mxGeometry y="30" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYPiPHhk6tZl1_4VbsE-19" value="advertisement" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" vertex="1" parent="bMYPiPHhk6tZl1_4VbsE-11">
+          <mxGeometry y="60" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYPiPHhk6tZl1_4VbsE-13" value="Q&amp;A like (how to get、how it works、how to donate)&#xa;such as some useful instruction " style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;strokeColor=default;" vertex="1" parent="bMYPiPHhk6tZl1_4VbsE-11">
+          <mxGeometry y="90" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYPiPHhk6tZl1_4VbsE-22" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bMYPiPHhk6tZl1_4VbsE-11" target="bMYPiPHhk6tZl1_4VbsE-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="435" as="sourcePoint" />
+            <mxPoint x="490" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
